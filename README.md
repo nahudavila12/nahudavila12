@@ -1,7 +1,7 @@
 # Cristian Nahuel Davila Echavarria |  Back-end Developer
 
 
-¡Hola! Soy **Cristian Nahuel Davila Echavarria**, un **Full Stack Developer** apasionado por crear soluciones escalables, me gusta introducirme a fondo en las problematicas que se me presenten. Mi enfoque es ofrecer productos de alta calidad, utilizando tecnologías modernas que impacten positivamente en la experiencia de los usuarios.Me especializo en Back-end.
+¡Hola! Soy **Cristian Nahuel Davila Echavarria**, un **Full Stack Developer** apasionado por crear soluciones escalables, me gusta introducirme a fondo en las problematicas que se me presenten. Mi enfoque es ofrecer productos de alta calidad, utilizando tecnologías modernas que impacten positivamente en la experiencia de los usuarios.Me especializo en **Back-end**.
 
 ---
 
