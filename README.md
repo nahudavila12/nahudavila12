@@ -1,7 +1,7 @@
 # Nahuel Dávila | Back-end & Full Stack Developer
 
 <p align="center">
-  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
+  <img width="100px" src="https://res.cloudinary.com/dcxlhj8h3/image/upload/v1748533286/linkedin-cover_1_ocyx0s.png" align="center" alt="GitHub Readme Stats" />
   <h2 align="center">¡Bienvenido a mi perfil de GitHub!</h2>
   <p align="center">Desarrollador apasionado por crear soluciones escalables y de alto impacto.</p>
 </p>
@@ -65,17 +65,10 @@ Mi meta es seguir creciendo como desarrollador, contribuir a proyectos innovador
 
 ## 📬 Contacto
 
-- **Correo:** [vidalvi869@gmail.com](mailto:vidalvi869@gmail.com)
-- **Teléfono:** +54 3834 232861
-- **GitHub:** [nahudavila12](https://github.com/nahudavila12)
+📫 **Contacto**  
+Puedes encontrarme en:  
+- **GitHub**: [nahudavila12](https://github.com/nahudavila12)  
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nahuel-davila-8a317627b)
-
----
-
-<p align="center">
-  <a href="https://github.com/nahudavila12">
-    <img src="https://img.shields.io/github/followers/nahudavila12?label=Seguidores&style=social" alt="Seguidores de GitHub" />
-  </a>
-</p>
+- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vidalvi869@gmail.com)
 
 🚀 ¡Siempre abierto a nuevas oportunidades y colaboraciones interesantes!
