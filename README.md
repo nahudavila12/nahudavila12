@@ -1,52 +1,81 @@
-# Cristian Nahuel Davila Echavarria | Back-end Developer  
+# Nahuel Dávila | Back-end & Full Stack Developer
 
-¡Hola! Soy **Cristian Nahuel Davila Echavarria**, un **Full Stack Developer** apasionado por crear soluciones escalables. Me gusta introducirme a fondo en las problemáticas que se me presenten. Mi enfoque es ofrecer productos de alta calidad, utilizando tecnologías modernas que impacten positivamente en la experiencia de los usuarios. Me especializo en **Back-end**.  
-
----
-
-## 🚀 ¿Hacia dónde me dirijo?  
-Mi objetivo es seguir evolucionando como desarrollador y aportar valor a proyectos que me desafíen a nivel técnico. Estoy en búsqueda de nuevas oportunidades donde pueda aplicar mis habilidades tanto en el **back-end** como en el **front-end**, mientras continúo aprendiendo y adoptando mejores prácticas.  
-
----
-
-## 🎯 Hobbies  
-
-- 📖 **Leer** (Actualmente estoy leyendo _Clean Code_)  
-- 💻 **Codear**: Siempre explorando nuevas tecnologías y mejorando habilidades.  
-- 🥋 **MMA**: Entrenando y perfeccionando técnicas de artes marciales mixtas.  
-- 🏐 **Voleibol**: Jugando en equipo y mejorando la coordinación.  
-- 🏋️‍♂️ **Gym**: Enfocado en mantenerme en forma y alcanzar nuevas metas.  
-- 🎬 **Ver películas**: Disfrutando de grandes historias y géneros diversos.  
-- 🎮 **Videojuegos**: Relajándome y compitiendo en mundos virtuales.  
+<p align="center">
+  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
+  <h2 align="center">¡Bienvenido a mi perfil de GitHub!</h2>
+  <p align="center">Desarrollador apasionado por crear soluciones escalables y de alto impacto.</p>
+</p>
 
 ---
 
-## 🛠️ Tecnologías que utilizo:  
+## 👋 Sobre mí
 
-### Backend:  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)  
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)  
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  
-![TypeORM](https://img.shields.io/badge/TypeORM-ff8c00?style=for-the-badge&logo=typeorm&logoColor=white)  
-
-### Frontend:  
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)  
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)  
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)  
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)  
-
-### Bases de datos:  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)  
+¡Hola! Soy **Nahuel Dávila** (nahudavila12), un **Full Stack Developer** con especialización en **Back-end**. Me apasiona resolver problemas complejos, aprender nuevas tecnologías y trabajar en proyectos que desafíen mis habilidades. Mi objetivo es aportar valor real a los equipos y productos en los que participo, siempre buscando la excelencia y la mejora continua.
 
 ---
 
-📫 **Contacto**  
-Puedes encontrarme en:  
-- **GitHub**: [nahudavila12](https://github.com/nahudavila12)  
+## 🚀 ¿Hacia dónde me dirijo?
+
+Mi meta es seguir creciendo como desarrollador, contribuir a proyectos innovadores y adoptar las mejores prácticas del sector. Busco oportunidades donde pueda aplicar mis conocimientos tanto en el **back-end** como en el **front-end**, y seguir aprendiendo cada día.
+
+---
+
+## 🎯 Hobbies
+
+- 📖 **Leer** (Actualmente: _Clean Code_)
+- 💻 **Codear**: Explorando nuevas tecnologías y mejorando habilidades.
+- 🥋 **MMA**: Entrenando artes marciales mixtas.
+- 🏐 **Voleibol**: Trabajo en equipo y coordinación.
+- 🏋️‍♂️ **Gym**: Superando nuevos retos físicos.
+- 🎬 **Películas**: Amante de las buenas historias.
+- 🎮 **Videojuegos**: Competencia y diversión.
+
+---
+
+## 🛠️ Tecnologías que utilizo
+
+### Backend:
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![TypeORM](https://img.shields.io/badge/TypeORM-ff8c00?style=for-the-badge&logo=typeorm&logoColor=white)
+
+### Frontend:
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### Bases de datos:
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+
+## 📈 Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nahudavila12&show_icons=true&theme=radical&locale=es" alt="Estadísticas de GitHub de Nahuel Dávila" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahudavila12&layout=compact&theme=radical&locale=es" alt="Lenguajes más usados" />
+</p>
+
+---
+
+## 📬 Contacto
+
+- **Correo:** [vidalvi869@gmail.com](mailto:vidalvi869@gmail.com)
+- **Teléfono:** +54 3834 232861
+- **GitHub:** [nahudavila12](https://github.com/nahudavila12)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nahuel-davila-8a317627b)
-- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nahudavila0705@gmail.com)
 
-🚀 ¡Siempre abierto a nuevas oportunidades y colaboraciones interesantes!  
+---
+
+<p align="center">
+  <a href="https://github.com/nahudavila12">
+    <img src="https://img.shields.io/github/followers/nahudavila12?label=Seguidores&style=social" alt="Seguidores de GitHub" />
+  </a>
+</p>
+
+🚀 ¡Siempre abierto a nuevas oportunidades y colaboraciones interesantes!
