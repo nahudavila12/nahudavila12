@@ -1,7 +1,7 @@
 # Nahuel Dávila | Back-end & Full Stack Developer
 
 <p align="center">
-  <img width="100px" src="https://res.cloudinary.com/dcxlhj8h3/image/upload/v1748533286/linkedin-cover_1_ocyx0s.png" align="center" alt="GitHub Readme Stats" />
+  <img width="200px" src="https://res.cloudinary.com/dcxlhj8h3/image/upload/v1748533660/perfil_n64o2g.jpg" align="center" alt="GitHub Readme Nahuel Davila" />
   <h2 align="center">¡Bienvenido a mi perfil de GitHub!</h2>
   <p align="center">Desarrollador apasionado por crear soluciones escalables y de alto impacto.</p>
 </p>
