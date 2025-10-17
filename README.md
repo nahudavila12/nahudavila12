@@ -70,5 +70,7 @@ Puedes encontrarme en:
 - **GitHub**: [nahudavila12](https://github.com/nahudavila12)  
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nahuel-davila-8a317627b)
 - [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vidalvi869@gmail.com)
+- - **Portfolio**: (https://portfolio-nahuel-davila.vercel.app/)  
+
 
 🚀 ¡Siempre abierto a nuevas oportunidades y colaboraciones interesantes!
