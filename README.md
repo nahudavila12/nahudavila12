@@ -10,7 +10,7 @@
   [![GitHub](https://img.shields.io/badge/GitHub-nahudavila12-181717?style=for-the-badge&logo=github)](https://github.com/nahudavila12)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nahuel_Dávila-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nahuel-davila-8a317627b)
   [![Portfolio](https://img.shields.io/badge/Portfolio-Ver_proyectos-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-nahuel-davila.vercel.app/)
-  [![Email](https://img.shields.io/badge/Email-vidalvi869@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nahu.davila@gmail.com)
+  [![Email](https://img.shields.io/badge/Email-nahu.davila@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nahu.davila@gmail.com)
 
 </div>
 
