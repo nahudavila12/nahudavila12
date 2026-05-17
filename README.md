@@ -1,76 +1,99 @@
-# Nahuel Dávila | Back-end & Full Stack Developer
+<div align="center">
 
-<p align="center">
-  <img width="200px" src="https://res.cloudinary.com/dcxlhj8h3/image/upload/v1748533660/perfil_n64o2g.jpg" align="center" alt="GitHub Readme Nahuel Davila" />
-  <h2 align="center">¡Bienvenido a mi perfil de GitHub!</h2>
-  <p align="center">Desarrollador apasionado por crear soluciones escalables y de alto impacto.</p>
-</p>
+
+  <img src="https://res.cloudinary.com/dcxlhj8h3/image/upload/v1748533660/perfil_n64o2g.jpg" width="140" style="border-radius:50%;" alt="Nahuel Dávila" />
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3800&pause=900&color=6366F1&center=true&vCenter=true&width=700&lines=Construyo+APIs+escalables+y+productos+full+stack;NestJS+%7C+Node.js+%7C+TypeScript;Abierto+a+colaboraciones+y+nuevos+retos" alt="Typing SVG" />
+
+  <br/>
+
+  [![GitHub](https://img.shields.io/badge/GitHub-nahudavila12-181717?style=for-the-badge&logo=github)](https://github.com/nahudavila12)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nahuel_Dávila-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nahuel-davila-8a317627b)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-Ver_proyectos-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-nahuel-davila.vercel.app/)
+  [![Email](https://img.shields.io/badge/Email-vidalvi869@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nahu.davila@gmail.com)
+
+</div>
 
 ---
 
 ## 👋 Sobre mí
 
-¡Hola! Soy **Nahuel Dávila** (nahudavila12), un **Full Stack Developer** con especialización en **Back-end**. Me apasiona resolver problemas complejos, aprender nuevas tecnologías y trabajar en proyectos que desafíen mis habilidades. Mi objetivo es aportar valor real a los equipos y productos en los que participo, siempre buscando la excelencia y la mejora continua.
+Desarrollador **Full Stack** con foco en **Back-end**. Me gusta diseñar APIs robustas, modelar datos con claridad y llevar productos de punta a punta — desde la base de datos hasta la interfaz.
+
+Busco equipos donde pueda aportar con código mantenible, buenas prácticas y curiosidad constante por aprender.
 
 ---
 
-## 🚀 ¿Hacia dónde me dirijo?
+## 🔭 Ahora mismo
 
-Mi meta es seguir creciendo como desarrollador, contribuir a proyectos innovadores y adoptar las mejores prácticas del sector. Busco oportunidades donde pueda aplicar mis conocimientos tanto en el **back-end** como en el **front-end**, y seguir aprendiendo cada día.
-
----
-
-## 🎯 Hobbies
-
-- 📖 **Leer** (Actualmente: _Clean Code_)
-- 💻 **Codear**: Explorando nuevas tecnologías y mejorando habilidades.
-- 🥋 **MMA**: Entrenando artes marciales mixtas.
-- 🏐 **Voleibol**: Trabajo en equipo y coordinación.
-- 🏋️‍♂️ **Gym**: Superando nuevos retos físicos.
-- 🎬 **Películas**: Amante de las buenas historias.
-- 🎮 **Videojuegos**: Competencia y diversión.
+| | |
+|---|---|
+| 📖 **Leyendo** | *Clean Code* — Robert C. Martin |
+| 🛠️ **Enfocado en** | Arquitectura backend, APIs REST y buenas prácticas con NestJS |
+| 🎯 **Objetivo** | Contribuir a productos con impacto real y seguir creciendo como desarrollador |
 
 ---
 
-## 🛠️ Tecnologías que utilizo
+## 🛠️ Stack
 
-### Backend:
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![TypeORM](https://img.shields.io/badge/TypeORM-ff8c00?style=for-the-badge&logo=typeorm&logoColor=white)
+<div align="center">
 
-### Frontend:
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,ts,react,nextjs,redux,tailwind,bootstrap,mongodb,postgres,git&perline=7" alt="Tech stack" />
 
-### Bases de datos:
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+</div>
+
+**Backend** · Node.js · NestJS · Express · TypeScript · TypeORM  
+**Frontend** · Next.js · React · Redux · Tailwind CSS · Bootstrap  
+**Datos** · PostgreSQL · MongoDB  
+**Herramientas** · Git
 
 ---
 
-## 📈 Estadísticas de GitHub
+## 📊 GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nahudavila12&show_icons=true&theme=radical&locale=es" alt="Estadísticas de GitHub de Nahuel Dávila" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahudavila12&layout=compact&theme=radical&locale=es" alt="Lenguajes más usados" />
-</p>
+<div align="center">
+
+![Estadísticas](https://github-readme-stats-sigma-five.vercel.app/api?username=nahudavila12&show_icons=true&theme=tokyonight&locale=es&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=8b5cf6)
+
+![Racha](https://streak-stats.demolab.com/?user=nahudavila12&theme=tokyonight&locale=es&hide_border=true&background=0D1117&ring=6366f1&fire=8b5cf6&currStreakLabel=6366f1)
+
+![Lenguajes](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nahudavila12&layout=compact&theme=tokyonight&locale=es&hide_border=true&bg_color=0d1117&title_color=6366f1)
+
+![Contribuciones](https://github-readme-activity-graph.vercel.app/graph?username=nahudavila12&theme=react-dark&bg_color=0d1117&color=6366f1&line=8b5cf6&point=ffffff&area=true&hide_border=true&custom_title=Contribuciones)
+
+</div>
+
+---
+
+## 🎯 Más allá del código
+
+```text
+📖 Leer          💻 Codear y explorar tech      🥋 MMA
+🏐 Voleibol      🏋️ Gym                         🎬 Cine
+🎮 Videojuegos
+```
 
 ---
 
 ## 📬 Contacto
 
-📫 **Contacto**  
-Puedes encontrarme en:  
-- **GitHub**: [nahudavila12](https://github.com/nahudavila12)  
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nahuel-davila-8a317627b)
-- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vidalvi869@gmail.com)
-- - **Portfolio**: (https://portfolio-nahuel-davila.vercel.app/)  
+¿Tenés una idea, un proyecto o una oportunidad? **Escribime** — siempre abierto a conversar.
 
+<div align="center">
 
-🚀 ¡Siempre abierto a nuevas oportunidades y colaboraciones interesantes!
+  [![GitHub](https://img.shields.io/badge/GitHub-@nahudavila12-181717?style=flat-square&logo=github)](https://github.com/nahudavila12)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/nahuel-davila-8a317627b)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-nahuel--davila-000?style=flat-square&logo=vercel)](https://portfolio-nahuel-davila.vercel.app/)
+  [![Gmail](https://img.shields.io/badge/Gmail-Escribirme-EA4335?style=flat-square&logo=gmail)](mailto:nahu.davila@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:8b5cf6&height=100&section=footer&text=%C2%A1Gracias%20por%20visitar!&fontSize=24&fontColor=fff&animation=twinkling" alt="Footer" />
+
+  *«El código limpio no se escribe siguiendo reglas. Se escribe con disciplina y criterio.»*
+
+</div>
